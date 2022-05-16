@@ -1,0 +1,23 @@
+.mainbox {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  position: relative;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.smallbox {
+  width: 15px;
+  height: 15px;
+  background-color: orange;
+  border-radius: 50%;
+  position: absolute;
+}
+/*# sourceMappingURL=style.css.map */
